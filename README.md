@@ -2,8 +2,8 @@
 - 👀 I’m interested in Coding/Programming 
 - 🌱 I’m currently learning Microservices, AWS Cloud
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-      prashant.kachavepatil@gmail.com
+- 📫 How to reach me - You can mail on 
+      prashant.kachavepatil@gmail.com or call on 
       +917709912775
 
 <!---
